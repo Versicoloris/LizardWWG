@@ -1,3 +1,5 @@
+<img width="264" height="252" alt="image" src="https://github.com/user-attachments/assets/4aab0caa-8dfe-4eb1-987c-cd03d7ed9e1e" />
+
 # 🦎 LizardWWG (Where We Goin')
 
 Tiny QoL addon for Synastria.
