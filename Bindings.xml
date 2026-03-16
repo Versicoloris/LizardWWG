@@ -1,0 +1,5 @@
+<Bindings>
+    <Binding name="LIZARDWWG_OPENMAP" header="LizardWWG">
+        LizardWWG_OpenMap()
+    </Binding>
+</Bindings>

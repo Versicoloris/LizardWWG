@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: |cff00ff00Lizard|r|cffFFFFFFWWG|r |cffAAAAAA(Where We Goin')|r
+## Notes: Right-click a warp to open its map.
+## Author: Lizard
+## Version: 1.0
+
+LizardWWG.lua
+Bindings.xml
